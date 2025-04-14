@@ -15,22 +15,6 @@ Education
 * GPA: 3.90/4.00 (Top 7%)
 * B.Eng. in Electronics and Electrical Engineering, University of Glasgow, 2022 - 2026 (expected)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -45,11 +29,6 @@ Publications
   {% endfor %}</ul>
   
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
