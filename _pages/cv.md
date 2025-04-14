@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Electronics Information Engineering, University of Electronic Science and Technology of China (UESTC), 2022 - 2026 (expected)
+* GPA: 3.90/4.00 (Top 7%)
 * B.Eng. in Electronics and Electrical Engineering, University of Glasgow, 2022 - 2026 (expected)
 
 Work experience
@@ -60,4 +61,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer mentor of class of 2024 UESTC Freshmen Sep 2023 – Aug 2024 
+* President of UESTC Piano Association        Sep 2023 – Aug 2024 
