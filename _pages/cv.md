@@ -22,12 +22,7 @@ Skills
 * Programming: advanced level in MATLAB, C, Python (PyTorch, TensorFlow), Latex, basic level in Verilog 
 * Languages: Chinese Mandarin (Native), English (IELTS: 7.5, GRE: 324+3.5) 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
   
   
 Service and leadership
