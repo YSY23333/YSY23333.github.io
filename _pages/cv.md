@@ -34,12 +34,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software: proficient in Ansys Maxwell, Comsol, Vivado, LTspice, Origin 
+* Programming: advanced level in MATLAB, C, Python (PyTorch, TensorFlow), Latex, basic level in Verilog 
+* Languages: Chinese Mandarin (Native), English (IELTS: 7.5, GRE: 324+3.5) 
 
 Publications
 ======
