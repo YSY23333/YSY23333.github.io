@@ -3,7 +3,7 @@ title: "Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial S
 collection: publications
 category: manuscripts
 permalink: /publication/2024IEEESJ
-excerpt: 'Under third-round review'
+excerpt: 'Accepted'
 date: 2024-12-23
 venue: 'IEEE Sensors Journal'
 ---
