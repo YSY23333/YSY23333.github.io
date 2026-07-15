@@ -4,7 +4,7 @@ title: "Siyu You"
 excerpt: "Sensing, signal processing, and machine learning"
 ---
 
-I am Siyu You, a final-year B.Eng. student in **Electronics and Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**, completing a dual-degree program in **Electronics and Electrical Engineering** at the **University of Glasgow**. My GPA at UESTC is 3.91/4.00 (ranked 17/246), and I received First Class Honours at Glasgow.
+I am Siyu You, a final-year B.Eng. student in **Electronics and Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**, completing a dual-degree program in **Electronics and Electrical Engineering** at the **University of Glasgow**. I received First Class Honours at Glasgow.
 
 My research sits at the intersection of **signal processing**, **wireless and wearable sensing**, and **machine learning for sensor data**. I am particularly interested in robust time-series representation learning, human sensing, non-destructive testing, and physics-informed AI.
 
