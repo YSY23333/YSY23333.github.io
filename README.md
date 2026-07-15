@@ -11,6 +11,6 @@ This is a personalized GitHub Pages site using the [AcademicPages](https://githu
 
 ## Before publishing
 
-- Review the email address and the CV file, since both will be publicly accessible.
+- Review the university email address and the CV file, since both will be publicly accessible.
 - Add a Google Scholar profile URL to `_config.yml` once available.
 - Replace the GitHub avatar URL in `_config.yml` with a professional headshot if preferred.
