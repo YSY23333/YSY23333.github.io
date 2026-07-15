@@ -15,13 +15,6 @@ My research sits at the intersection of **signal processing**, **wireless and we
 - Internet of Things and sensor intelligence
 - ML/AI for sensor data and non-destructive testing
 
-## Highlights
-
-- First author of work published in *IEEE Sensors Journal*; contributor to publications in *NDT & E International*, IEEE PHM, ICM&A, and IEEE SMC.
-- Developed fault-detection methods for steel wire ropes, including adaptive multi-scale detection (96.7% F1) and physics-guided unsupervised detection (99.4% F1; over 100 FPS).
-- Built a WiFi CSI sensing framework aligned with TinyLLaMA, achieving 92.4%, 96.2%, and 80.3% accuracy on UT-HAR, NTU-Fi, and WiFall.
-- Algorithm Engineer Intern at Xiaomi's Wearable Algorithms Team; improved internal VO2 max estimation MAPE from 18% to 9%.
-
 ## Education
 
 **University of Electronic Science and Technology of China (UESTC)**  
@@ -32,4 +25,11 @@ GPA: 3.91/4.00 (89.12/100); Rank: 17/246
 B.Eng. in Electronics and Electrical Engineering, Sep. 2022 - Jun. 2026  
 Dual Degree Program with UESTC; First Class Honours
 
-Please see my [publications](/publications/), [research experience](/research/), and [CV](/cv/) for details.
+## Work experience
+
+**Xiaomi - Wearable Algorithms Team**  
+Algorithm Engineer Intern, Mar. 2026 - Jun. 2026
+
+Developed wearable algorithms from physiological and motion signals. My work included VO2 max estimation, reducing internal-validation MAPE from 18% to 9%; long-distance running performance prediction; and validation on real wearable devices for integration into an upcoming Xiaomi product.
+
+Please see my [publications](/publications/), [research experience](/research/), and [CV PDF](/files/Siyu_You_Resume-10.pdf) for details.
