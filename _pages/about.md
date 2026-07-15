@@ -32,4 +32,8 @@ Algorithm Engineer Intern, Mar. 2026 - Jun. 2026
 
 Developed wearable algorithms from physiological and motion signals. My work included VO2 max estimation, reducing internal-validation MAPE from 18% to 9%; long-distance running performance prediction; and validation on real wearable devices for integration into an upcoming Xiaomi product.
 
-Please see my [publications](/publications/), [research experience](/research/), and [CV PDF](/files/Siyu_You_Resume-10.pdf) for details.
+## Interests and hobbies
+
+Outside research, I enjoy playing piano and helping create musical events and communities. I previously served as President of the UESTC Piano Association.
+
+Please see my [publications](/publications/), [research experience](/research/), and [CV PDF](https://ysy23333.github.io/files/Siyu_You_Resume-10.pdf) for details.
