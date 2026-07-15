@@ -36,6 +36,11 @@ Developed wearable algorithms from physiological and motion signals. My work inc
 
 Outside research, I enjoy playing piano, traveling, and photography. I also enjoy helping create musical events and communities, and previously served as President of the UESTC Piano Association.
 
+## <i class="fas fa-language"></i> Languages
+
+- **Chinese Mandarin:** Native
+- **English:** IELTS 7.5 (Listening 9.0, Reading 8.5, Writing 7.0, Speaking 6.0); GRE 324 (Verbal 156, Quantitative 168, Analytical Writing 3.5)
+
 ## <i class="fas fa-trophy"></i> Honors and awards
 
 - Outstanding Individual in Academic and Scientific Innovation (Top 30 university-wide), UESTC, 2026
