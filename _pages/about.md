@@ -69,12 +69,12 @@ Under the broader theme of AI for real-world sensing systems, I pursue three clo
 - *2024*: Top Ten Student Leaders of the Year, UESTC.
 
 # 📖 Education
-- *2022.09 - 2026.06*, B.Eng. in Electronic Information Engineering, <img class="affiliation-logo" src="/images/logos/uestc.png" alt="UESTC emblem"> University of Electronic Science and Technology of China (UESTC), Chengdu, China. GPA: 3.91/4.00 (89.12/100), rank: 17/246.
+- *2022.09 - 2026.06*, B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China (UESTC) <span class="affiliation-logo uestc-emblem" role="img" aria-label="UESTC emblem"></span>, Chengdu, China. GPA: 3.91/4.00 (89.12/100), rank: 17/246.
 - *2022.09 - 2026.06*, B.Eng. in Electronics and Electrical Engineering, University of Glasgow, Glasgow, United Kingdom. Dual degree program with UESTC; degree classification: First Class Honours.
 
 # 💻 Experience
-- *2026.08 - Present*, Algorithm Engineer, <img class="affiliation-logo affiliation-logo--wide" src="/images/logos/shokz.png" alt="Shokz logo"> Shokz.
-- *2026.03 - 2026.07*, Algorithm Engineer Intern, Wearable Algorithms Team, <img class="affiliation-logo" src="/images/logos/xiaomi.svg" alt="Xiaomi logo"> Xiaomi.
+- *2026.08 - Present*, Algorithm Engineer, Shokz <img class="affiliation-logo affiliation-logo--wide" src="/images/logos/shokz.png" alt="Shokz logo">.
+- *2026.03 - 2026.07*, Algorithm Engineer Intern, Wearable Algorithms Team, Xiaomi <img class="affiliation-logo" src="/images/logos/xiaomi.svg" alt="Xiaomi logo">.
   - Developed wearable VO2 max estimation algorithms for Xiaomi Band using physiological and motion signals, reducing estimation MAPE from 18% to 9% on internal validation data.
   - Built long-distance running performance prediction models with feature engineering, model training, error analysis, and robustness evaluation against reference measurements.
 
