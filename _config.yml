@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siyu You"
   avatar           : "images/profile.png"
-  bio              : "Dual B.Eng. graduate of UESTC and the University of Glasgow. AI for real-world sensing systems."
+  bio              : "Dual B.Eng. graduate of UESTC and the University of Glasgow."
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
