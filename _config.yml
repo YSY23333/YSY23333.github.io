@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Siyu You"
-  avatar           : "images/profile-full.jpg"
+  avatar           : "images/profile-square-v2.jpg"
   bio              : "Dual B.Eng. graduate of UESTC and the University of Glasgow."
-  location         : "Chengdu, China"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OCjswlUAAAAJ&hl"

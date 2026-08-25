@@ -107,3 +107,16 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.affiliation-logo {
+    display: inline-block;
+    width: 1.35em;
+    height: 1.35em;
+    margin-right: .4em;
+    object-fit: contain;
+    vertical-align: -.3em;
+}
+
+.affiliation-logo--wide {
+    width: 2.7em;
+}
