@@ -69,8 +69,8 @@ Under the broader theme of AI for real-world sensing systems, I pursue three clo
 - *2024*: Top Ten Student Leaders of the Year, UESTC.
 
 # 📖 Education
-- *2022.09 - 2026.06*, B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China (UESTC) <span class="affiliation-logo uestc-emblem" role="img" aria-label="UESTC emblem"></span>, Chengdu, China. GPA: 3.91/4.00 (89.12/100), rank: 17/246.
-- *2022.09 - 2026.06*, B.Eng. in Electronics and Electrical Engineering, University of Glasgow, Glasgow, United Kingdom. Dual degree program with UESTC; degree classification: First Class Honours.
+- *2022.09 - 2026.06*, B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China (UESTC) <img class="affiliation-logo affiliation-logo--crest uestc-crest" src="/images/logos/uestc-emblem.png" alt="UESTC emblem">, Chengdu, China. GPA: 3.91/4.00 (89.12/100), rank: 17/246.
+- *2022.09 - 2026.06*, B.Eng. in Electronics and Electrical Engineering, University of Glasgow <img class="affiliation-logo affiliation-logo--crest" src="/images/logos/uog-crest.svg" alt="University of Glasgow crest">, Glasgow, United Kingdom. Dual degree program with UESTC; degree classification: First Class Honours.
 
 # 💻 Experience
 - *2026.08 - Present*, Algorithm Engineer, Shokz <img class="affiliation-logo affiliation-logo--wide" src="/images/logos/shokz.png" alt="Shokz logo">.

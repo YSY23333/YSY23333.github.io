@@ -121,9 +121,13 @@ h1:before, .anchor:before {
     width: 3.2em;
 }
 
-.uestc-emblem {
-    background-image: url("/images/logos/uestc-official.png");
-    background-position: left center;
-    background-repeat: no-repeat;
-    background-size: auto 100%;
+.affiliation-logo--crest {
+    width: 1.45em;
+    height: 1.45em;
+}
+
+.uestc-crest {
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
 }
