@@ -1,54 +1,163 @@
-locale: "en-US"
-title: "Siyu You"
-name: "Siyu You"
-description: "Researcher in sensing, signal processing, and machine learning"
-url: "https://ysy23333.github.io"
-baseurl: ""
-repository: "YSY23333/YSY23333.github.io"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# This site is customized from the AcademicPages template.
-remote_theme: "academicpages/academicpages.github.io@master"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
+# Site Settings
+title                    : "Siyu You"
+description              : "Undergraduate researcher in AI for sensing, wearable algorithms, and industrial inspection."
+repository               : "YSY23333/YSY23333.github.io"
+google_scholar_stats_use_cdn : true
 
-markdown: kramdown
-permalink: /:categories/:title/
-timezone: Asia/Shanghai
-future: true
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+
+# Site Author
 author:
-  avatar: "https://github.com/YSY23333.png"
-  name: "Siyu You"
-  bio: "B.Eng. candidate in Electronics and Information Engineering at UESTC, with a dual degree from the University of Glasgow."
-  location: "Chengdu, China"
-  employer: "UESTC"
-  uri: "https://github.com/YSY23333"
-  email: "2022190502023@std.uestc.edu.cn"
-  github: "YSY23333"
-  googlescholar: "https://scholar.google.com/citations?user=OCjswlUAAAAJ&hl=en"
+  name             : "Siyu You"
+  avatar           : "images/profile.png"
+  bio              : "Dual B.Eng. graduate of UESTC and the University of Glasgow. AI for real-world sensing systems."
+  location         : "Chengdu, China"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=OCjswlUAAAAJ&hl"
+  email            : "2022190502023@std.uestc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Siyu-You-2"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "YSY23333"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-collections:
-  publications:
-    output: true
-    permalink: /publication/:path/
 
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Defaults
 defaults:
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: default
       author_profile: true
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
-include:
-  - _pages
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

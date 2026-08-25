@@ -1,54 +1,88 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "Sensing, signal processing, and machine learning"
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-I am Siyu You, a final-year B.Eng. student in **Electronics and Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**, completing a dual-degree program in **Electronics and Electrical Engineering** at the **University of Glasgow**. I received First Class Honours at Glasgow.
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My research sits at the intersection of **signal processing**, **wireless and wearable sensing**, and **machine learning for sensor data**. I am particularly interested in robust time-series representation learning, human sensing, non-destructive testing, and physics-informed AI.
+<span class='anchor' id='about-me'></span>
 
-## <i class="fas fa-flask"></i> Research interests
+I received dual B.Eng. degrees in Electronic Information Engineering from the **University of Electronic Science and Technology of China (UESTC)** and in Electronics and Electrical Engineering from the **University of Glasgow**. My research centers on AI for real-world sensing systems: transforming complex sensor signals into reliable, interpretable, and deployable intelligence. Within this theme, I work across wearable and physiological sensing, wireless perception with WiFi CSI and mmWave radar, and physics-informed industrial inspection. At UESTC, I conducted research under the supervision of Prof. Zhiliang Liu and Prof. Shisheng Guo.
 
-- Signal processing and time-series analysis
-- Wireless, wearable, and physiological sensing
-- Internet of Things and sensor intelligence
-- ML/AI for sensor data and non-destructive testing
+I am currently working as an **Algorithm Engineer Intern at Shokz in Shenzhen**. Previously, I worked as an Algorithm Engineer Intern on the Wearable Algorithms Team at **Xiaomi**, developing on-device AI and ML algorithms for Mi Band. These experiences have strengthened my interest in translating sensing research into efficient algorithms for real-world devices.
 
-## <i class="fas fa-graduation-cap"></i> Education
+[Download CV](/files/cv.pdf)
 
-**University of Electronic Science and Technology of China (UESTC)**  
-B.Eng. in Electronics and Information Engineering, Sep. 2022 - Jun. 2026  
-GPA: 3.91/4.00 (89.12/100); Rank: 17/246
+# 🔥 News
+- *2026.08*: Our paper **PhysDox: Benchmarking LLMs on Physical Feasibility Auditing of Physiological Sensing Protocols** was accepted to the Findings of EMNLP 2026.
+- *2026.08*: Joined Shokz as an Algorithm Engineer Intern.
+- *2026.06*: Awarded Outstanding Individual in Academic and Scientific Innovation at UESTC.
+- *2026.06*: Our team was named one of the Top Ten Scientific Innovation Teams of the Year at Glasgow College, UESTC.
+- *2026.06*: Final-year project **WiFi-LLM** was awarded Outstanding Thesis (Top 10%).
+- *2026.03*: Joined Xiaomi as an Algorithm Engineer Intern.
+- *2025.10*: Our paper **Weak LF Signal Detection Based on Multiscale Phase Spectrum Reconstruction for Steel Wire Ropes** received the Best Paper Award at IEEE PHM Xi'an 2025.
+- *2025.05*: Our work on nondestructive testing of steel wire ropes received a Gold Medal at the International Exhibition of Inventions Geneva.
 
-**University of Glasgow**  
-B.Eng. in Electronics and Electrical Engineering, Sep. 2022 - Jun. 2026  
-Dual Degree Program with UESTC; First Class Honours
+# 📝 Publications
 
-## <i class="fas fa-briefcase"></i> Work experience
+**Journal Articles**
 
-**Xiaomi - Wearable Algorithms Team**  
-Algorithm Engineer Intern, Mar. 2026 - Jun. 2026
+- **Siyu You**, Huayi Gou, Leilei Yang, Zhiliang Liu, Mingjian Zuo. **Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs.** *IEEE Sensors Journal* (JCR Q1, IF=4.5).
+- Leilei Yang, Zhiliang Liu, **Siyu You**, Mingjian Zuo. [**ILF Diagnosis for Steel Wire Ropes Based on Physical Information under Uniform Circular Array.**](https://www.sciencedirect.com/science/article/pii/S0963869525000842) *NDT & E International* (JCR Q1, IF=4.5), 2025.
+- **Siyu You**, Leilei Yang, Zhiliang Liu. **MFLFormer: A Robust Physics-Informed Unsupervised Framework for Industrial Local Flaw Inspection of Steel Wire Ropes.** *IEEE Transactions on Industrial Informatics*, under revision.
+- Leilei Yang, Hailin Zhou, **Siyu You**, Wu Wen, Fang Xie, Fengqiang Hu, Liming Yang, Zhiliang Liu. **Triaxial Magnetic Flux Leakage Data Fusion for Quantification of Local Flaws in Carrying-Hauling Ropes.** *NDT & E International*, under review.
 
-Developed wearable algorithms from physiological and motion signals. My work included VO2 max estimation, reducing internal-validation MAPE from 18% to 9%; long-distance running performance prediction; and validation on real wearable devices for integration into an upcoming Xiaomi product.
+**Conference Papers**
 
-## <i class="fas fa-heart"></i> Interests and hobbies
+- He Liu, Boyuan Gu, Shuaiqi Cheng, Haiyang Sun, **Siyu You**, Xuming Hu. **PhysDox: Benchmarking LLMs on Physical Feasibility Auditing of Physiological Sensing Protocols.** *Findings of EMNLP 2026*, accepted.
+- **Siyu You**, Leilei Yang, Zixu Kuang, Huayi Gou, Longlong Zhang, Zhiliang Liu. [**A Signal Matrix-Based Local Flaw Detection Framework for Steel Wire Ropes Using Convolutional Neural Networks.**](https://arxiv.org/abs/2504.10952) *2025 International Conference on Mechatronics and Automation*, Oral Presentation.
+- Leilei Yang, **Siyu You**, Hailin Zhou, Zhiliang Liu. **Weak LF Signal Detection Based on Multiscale Phase Spectrum Reconstruction for Steel Wire Ropes.** *IEEE PHM Xi'an 2025*, Best Paper Award.
+- Boyuan Gu, Yanhui Yang, **Siyu You**, Haiyang Sun, Shisheng Guo. [**Improved VMD Based Remote Heartbeat Estimation Utilizing 60GHz mmWave Radar.**](https://arxiv.org/abs/2502.11042) *2025 IEEE International Conference on Systems, Man, and Cybernetics*.
+- Shuaiqi Cheng, Jiahao Zhang, Boyuan Gu, **Siyu You**, Zexin Lu, Huiyu Zhou, Xuming Hu. **TamedFlow: Trajectory-Aware Distillation for Self-Speculative Diffusion Transformers.** *NeurIPS 2026*, under review.
 
-Outside research, I enjoy playing piano, traveling, and photography. I also enjoy helping create musical events and communities, and previously served as President of the UESTC Piano Association.
+# 🔬 Research
 
-## <i class="fas fa-language"></i> Languages
+Under the broader theme of AI for real-world sensing systems, I pursue three closely related directions:
 
-- **Chinese Mandarin:** Native
-- **English:** IELTS 7.5 (Listening 9.0, Reading 8.5, Writing 7.0, Speaking 6.0); GRE 324 (Verbal 156, Quantitative 168, Analytical Writing 3.5)
+- **Wearable and Physiological Sensing:** Developing on-device AI and machine learning methods for physiological monitoring, health assessment, and human-centered wearable applications.
+- **Wireless Sensing and Human-Centric Perception:** Exploring WiFi CSI and mmWave radar for contactless activity recognition, vital-sign monitoring, and intelligent environmental perception.
+- **Physics-Informed Industrial Inspection:** Combining domain knowledge with deep learning to build reliable, interpretable, and deployable systems for industrial defect detection and condition monitoring.
 
-## <i class="fas fa-trophy"></i> Honors and awards
+# 🎖 Honors and Awards
+- *2026*: Outstanding Individual in Academic and Scientific Innovation, UESTC (Top 30 in UESTC).
+- *2026*: Team Leader, Top Ten Scientific Innovation Teams of the Year, Glasgow College, UESTC.
+- *2025*: Yanbao Scholarship (Top 5% nationwide).
+- *2025*: James Watt Innovation Scholarship (Top 5 in Glasgow College).
+- *2025*: Gold Medal, International Exhibition of Inventions Geneva, for work on nondestructive testing of steel wire ropes.
+- *2023-2025*: First-Class Scholarship (Top 10%), awarded consecutively.
+- *2024*: Silver Award, China International College Student Innovation Competition.
+- *2024*: Top Ten Student Leaders of the Year, UESTC.
 
-- Outstanding Individual in Academic and Scientific Innovation (Top 30 university-wide), UESTC, 2026
-- James Watt Innovation Scholarship (Top 5 in cohort), University of Glasgow, 2025
-- Yanbao Scholarship (Top 5%), 2025
-- First-Class Scholarship (Top 10%, three consecutive years), UESTC, 2023-2025
-- Best Paper Award, IEEE Prognostics and Health Management Conference, Xi'an, 2025
-- Gold Medal, International Exhibition of Inventions Geneva, 2025
-- Silver Award, China International College Students' Innovation Competition, 2024
+# 📖 Education
+- *2022.09 - 2026.06*, B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China. GPA: 3.91/4.00 (89.12/100), rank: 17/246.
+- *2022.09 - 2026.06*, B.Eng. in Electronics and Electrical Engineering, University of Glasgow, Glasgow, United Kingdom. Dual degree program with UESTC; degree classification: First Class Honours.
 
-Please see my [publications](/publications/), [research experience](/research/), and [CV PDF](https://ysy23333.github.io/files/Siyu_You_Resume-10.pdf) for details.
+# 💻 Experience
+- *2026.08 - Present*, Algorithm Engineer Intern, Shokz.
+- *2026.03 - 2026.08*, Algorithm Engineer Intern, Wearable Algorithms Team, Xiaomi.
+  - Developed wearable VO2 max estimation algorithms for Xiaomi Band using physiological and motion signals, reducing estimation MAPE from 18% to 9% on internal validation data.
+  - Built long-distance running performance prediction models with feature engineering, model training, error analysis, and robustness evaluation against reference measurements.
+
+**Leadership Activities**
+- *2024.08 - 2025.06*, Peer Mentor, Class of 2024 Freshmen, UESTC.
+- *2023.09 - 2024.08*, President, Piano Association, UESTC.
+
+# 🧰 Skills
+- **Software**: Ansys Maxwell, COMSOL, Vivado, LTspice, Origin.
+- **Programming**: MATLAB, C, Python (PyTorch, TensorFlow), LaTeX; basic Verilog.
+- **Languages**: Chinese Mandarin (Native), English (IELTS: 7.5, GRE: 324).

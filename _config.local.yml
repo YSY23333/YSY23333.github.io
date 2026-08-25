@@ -1,4 +1,0 @@
-# Local-only fallback: avoids downloading the remote AcademicPages theme on
-# every preview. GitHub Pages continues to use `remote_theme` in _config.yml.
-remote_theme:
-theme: minimal-mistakes-jekyll
