@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received dual B.Eng. degrees in Electronic Information Engineering from the **University of Electronic Science and Technology of China (UESTC)** and in Electronics and Electrical Engineering from the **University of Glasgow**. My research centers on AI for real-world sensing systems: transforming complex sensor signals into reliable, interpretable, and deployable intelligence. Within this theme, I work across wearable and physiological sensing, wireless perception with WiFi CSI and mmWave radar, and physics-informed industrial inspection. At UESTC, I conducted research under the supervision of Prof. Zhiliang Liu and Prof. Shisheng Guo.
+I received dual B.Eng. degrees in Electronic Information Engineering from the **University of Electronic Science and Technology of China (UESTC)** and in Electronics and Electrical Engineering from the **University of Glasgow**. My research centers on AI for real-world sensing systems: transforming complex sensor signals into reliable, interpretable, and deployable intelligence. Within this theme, I work across wearable and physiological sensing, wireless perception with WiFi CSI and mmWave radar, and non-destructive testing. At UESTC, I conducted research under the supervision of Prof. Zhiliang Liu and Prof. Shisheng Guo.
 
 I am currently working as an **Algorithm Engineer Intern at Shokz in Shenzhen**. Previously, I worked as an Algorithm Engineer Intern on the Wearable Algorithms Team at **Xiaomi**, developing on-device AI and ML algorithms for Mi Band. These experiences have strengthened my interest in translating sensing research into efficient algorithms for real-world devices.
 
@@ -31,7 +31,7 @@ I am currently working as an **Algorithm Engineer Intern at Shokz in Shenzhen**.
 - *2026.06*: Final-year project **WiFi-LLM** was awarded Outstanding Thesis (Top 10%).
 - *2026.03*: Joined Xiaomi as an Algorithm Engineer Intern.
 - *2025.10*: Our paper **Weak LF Signal Detection Based on Multiscale Phase Spectrum Reconstruction for Steel Wire Ropes** received the Best Paper Award at IEEE PHM Xi'an 2025.
-- *2025.05*: Our work on nondestructive testing of steel wire ropes received a Gold Medal at the International Exhibition of Inventions Geneva.
+- *2025.05*: Our work on non-destructive testing of steel wire ropes received a Gold Medal at the International Exhibition of Inventions Geneva.
 
 # 📝 Publications
 
@@ -56,14 +56,14 @@ Under the broader theme of AI for real-world sensing systems, I pursue three clo
 
 - **Wearable and Physiological Sensing:** Developing on-device AI and machine learning methods for physiological monitoring, health assessment, and human-centered wearable applications.
 - **Wireless Sensing and Human-Centric Perception:** Exploring WiFi CSI and mmWave radar for contactless activity recognition, vital-sign monitoring, and intelligent environmental perception.
-- **Physics-Informed Industrial Inspection:** Combining domain knowledge with deep learning to build reliable, interpretable, and deployable systems for industrial defect detection and condition monitoring.
+- **Non-destructive Testing:** Combining domain knowledge with deep learning to build reliable, interpretable, and deployable systems for defect detection and condition monitoring.
 
 # 🎖 Honors and Awards
 - *2026*: Outstanding Individual in Academic and Scientific Innovation, UESTC (Top 30 in UESTC).
 - *2026*: Team Leader, Top Ten Scientific Innovation Teams of the Year, Glasgow College, UESTC.
 - *2025*: Yanbao Scholarship (Top 5% nationwide).
 - *2025*: James Watt Innovation Scholarship (Top 5 in Glasgow College).
-- *2025*: Gold Medal, International Exhibition of Inventions Geneva, for work on nondestructive testing of steel wire ropes.
+- *2025*: Gold Medal, International Exhibition of Inventions Geneva, for work on non-destructive testing of steel wire ropes.
 - *2023-2025*: First-Class Scholarship (Top 10%), awarded consecutively.
 - *2024*: Silver Award, China International College Student Innovation Competition.
 - *2024*: Top Ten Student Leaders of the Year, UESTC.
