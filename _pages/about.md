@@ -86,3 +86,10 @@ Under the broader theme of AI for real-world sensing systems, I pursue three clo
 - **Software**: Ansys Maxwell, COMSOL, Vivado, LTspice, Origin.
 - **Programming**: MATLAB, C, Python (PyTorch, TensorFlow), LaTeX; basic Verilog.
 - **Languages**: Chinese Mandarin (Native), English (IELTS: 7.5, GRE: 324).
+
+# Interests
+
+<div class="interest-list">
+  <span><i class="fas fa-fw fa-music" aria-hidden="true"></i> Piano</span>
+  <span><i class="fas fa-fw fa-camera" aria-hidden="true"></i> Photography</span>
+</div>
