@@ -19,13 +19,13 @@ redirect_from:
 
 I received dual B.Eng. degrees in Electronic Information Engineering from the **University of Electronic Science and Technology of China (UESTC)** and in Electronics and Electrical Engineering from the **University of Glasgow**. My research centers on AI for real-world sensing systems: transforming complex sensor signals into reliable, interpretable, and deployable intelligence. Within this theme, I work across wearable and physiological sensing, wireless perception with WiFi CSI and mmWave radar, and non-destructive testing. At UESTC, I conducted research under the supervision of Prof. Zhiliang Liu and Prof. Shisheng Guo.
 
-I am currently working as an **Algorithm Engineer at Shokz in Shenzhen**. Previously, I worked as an Algorithm Engineer Intern on the Wearable Algorithms Team at **Xiaomi**, developing on-device AI and ML algorithms for Mi Band. These experiences have strengthened my interest in translating sensing research into efficient algorithms for real-world devices.
+I am currently working as a **Research Intern at Shokz in Shenzhen**, focusing on exploratory research for sensing and wearable technologies. Previously, I worked as an Algorithm Engineer Intern on the Wearable Algorithms Team at **Xiaomi**, developing on-device AI and ML algorithms for Mi Band. These experiences have strengthened my interest in translating sensing research into efficient algorithms for real-world devices.
 
 [Download CV](/files/cv.pdf)
 
 # 🔥 News
 - *2026.08*: Our paper **PhysDox: Benchmarking LLMs on Physical Feasibility Auditing of Physiological Sensing Protocols** was accepted to the Findings of EMNLP 2026.
-- *2026.08*: Joined Shokz as an Algorithm Engineer.
+- *2026.08*: Joined Shokz as a Research Intern.
 - *2026.06*: Awarded Outstanding Individual in Academic and Scientific Innovation at UESTC.
 - *2026.06*: Our team was named one of the Top Ten Scientific Innovation Teams of the Year at Glasgow College, UESTC.
 - *2026.06*: Final-year project **WiFi-LLM** was awarded Outstanding Thesis (Top 10%).
@@ -73,7 +73,7 @@ Under the broader theme of AI for real-world sensing systems, I pursue three clo
 - *2022.09 - 2026.06*, B.Eng. in Electronics and Electrical Engineering, University of Glasgow <img class="affiliation-logo affiliation-logo--crest" src="/images/logos/uog-crest.svg" alt="University of Glasgow crest">, Glasgow, United Kingdom. Dual degree program with UESTC; degree classification: First Class Honours.
 
 # 💻 Experience
-- *2026.08 - Present*, Algorithm Engineer, Shokz <img class="affiliation-logo affiliation-logo--wide" src="/images/logos/shokz.png" alt="Shokz logo">.
+- *2026.08 - Present*, Research Intern, Shokz <img class="affiliation-logo affiliation-logo--wide" src="/images/logos/shokz.png" alt="Shokz logo">.
 - *2026.03 - 2026.07*, Algorithm Engineer Intern, Wearable Algorithms Team, Xiaomi <img class="affiliation-logo" src="/images/logos/xiaomi.svg" alt="Xiaomi logo">.
   - Developed wearable VO2 max estimation algorithms for Xiaomi Band using physiological and motion signals, reducing estimation MAPE from 18% to 9% on internal validation data.
   - Built long-distance running performance prediction models with feature engineering, model training, error analysis, and robustness evaluation against reference measurements.
